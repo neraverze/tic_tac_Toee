@@ -4,6 +4,7 @@
   "display": "fullscreen",
   "name": "TicTacToe",
   "short_name": "Tick",
+  "orientation": "portrait",
   "icons": [
     {
       "src": "icon.png",
@@ -17,5 +18,5 @@
     }
   ],
   "background_color": "#ffffff",
-  "theme_color": "#0a84ff"
+  "theme_color": "#000"
 }
