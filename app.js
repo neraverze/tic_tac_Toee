@@ -78,5 +78,6 @@ newGameBtn.addEventListener("click", () => {
 })
 
 if ('serviceWorker' in navigator) {
-  navigator.serviceWorker.register('./sw.js');
+  navigator.serviceWorker.register('tic_tac_Toee/public/sw.js');
 }
+
