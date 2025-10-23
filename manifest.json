@@ -1,7 +1,7 @@
 {
   "start_url": "./",
   "scope": "./",
-  "display": "standalone",
+  "display": "fullscreen",
   "name": "TicTacToe",
   "short_name": "Tick",
   "icons": [
