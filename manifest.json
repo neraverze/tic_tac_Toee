@@ -3,7 +3,7 @@
   "scope": "./",
   "display": "standalone",
   "name": "TicTacToe",
-  "short_name": "T3",
+  "short_name": "Tick",
   "icons": [
     {
       "src": "icon.png",
