@@ -77,9 +77,6 @@ newGameBtn.addEventListener("click", () => {
     turn0 = false;
 })
 
-
 if ('serviceWorker' in navigator) {
-    navigator.serviceWorker.register(
-      '/public/sw.js'
-    );
+  navigator.serviceWorker.register('./sw.js');
 }
